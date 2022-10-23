@@ -14,7 +14,7 @@ Red Dragon Bot Qr Code - Node.js Repl - Replit)
 
 1. Click [SCAN](https://replit.com › Red-Dragon-Bot...Red Dragon Bot Qr Code - Node.js Repl - Replit) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/Kaveeshasithum/DARK-NERO-BOT-MD-/fork)
+2. Click [FORK](https://github.com/nolove2005/BLACK-WHAIT-BOT/upload/main)
 
 2. After That Upload Session.json File
 
