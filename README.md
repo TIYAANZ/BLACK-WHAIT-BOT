@@ -6,7 +6,7 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
-[![Run on Repl.it](https://replit.com/@NoLove1/BLACK-WHAIT-BOT-1?v=1)
+[![Run on Repl.it] (https://replit.com/@NoLove1/BLACK-WHAIT-BOT-1?v=1)
 
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 
