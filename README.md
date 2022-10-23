@@ -6,7 +6,9 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Kaveesha2006/DARK-BOT-QR#)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com › Red-Dragon-Bot...
+Red Dragon Bot Qr Code - Node.js Repl - Replit)
+
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 ☞දැනට ඔයාලා 🇱🇰RED DRAGON🇱🇰 බොට්ගෙ Qr එක ස්කැන් කරලා එ එන ╠සිසන් ජෙම්ස්╣ File එක දාලා බොට් ඩිවලොප් කර ගන්න මම බොට්ගෙ ඉලග අප්ඩෙඩ් එකෙදි 🇱🇰 අනිවාරයෙන්ම ඔයාලට Qr එකක් දෙනවා🇱🇰.... 
 
