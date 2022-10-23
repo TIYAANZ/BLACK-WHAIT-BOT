@@ -1,2 +1,0 @@
-Respect all credit's 
- 
