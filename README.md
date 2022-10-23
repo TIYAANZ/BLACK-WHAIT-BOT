@@ -1,15 +1,7 @@
 <h1 align="center">☞BLACK-WHAIT-BOT☜<br></h1>
 <p align="center">
 
-<img src="![Screenshot_20221023-150442_WhatsApp](https://user-images.githubusercontent.com/116479343/197401558-bca033c4-cd98-4dee-b3ba-7a21b07649c0.jpg)
 "
-
-
-![Screenshot_20221023-150442_WhatsApp](https://user-images.githubusercontent.com/116479343/197401775-ffda8bde-b638-4513-881d-99ba7f070138.jpg)
-
-
-
-
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
@@ -26,14 +18,15 @@
 
 5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
 
-
+<h1 align="center">☞𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃☜<br></h1>
+<p align="center">
 
 
 
 
 # > THANKS FOR CHOOSING BLACK WHAIT BOT WE APPRECIATE YOU FOR YOUR SUPPORT
  
-# > DRAK NIRO 
-# > RED DRAGON
+# > ╠DRAK NIRO ╣ 
+# > ╠RED DRAGON╣
 
-# > 𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃
+# > ☞𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃☜
