@@ -51,13 +51,13 @@ global.botname = 'BLACK-WHAIT-BOT'
 
 global.footer = ' BLACK-WHAIT-BOT.'
 
-global.ig = 'https://github.com/darkalphaxteam'
+global.ig = 'https://github.com/nolove2005/BLACK-WHAIT-BOT'
 
 global.region = 'India, South India, Kerala'
 
-global.sc = 'https://github.com/darkalphaxteam/QUEEN-BIXBY-MD-PRO-NEW'
+global.sc = 'https://replit.com/@NoLove1/BLACK-WHAIT-BOT-1?v=1'
 
-global.myweb = 'https://youtube.com/channel/UCvpyOCBCaBSCdv4QolnO0WQ'
+global.myweb = 'https://github.com/nolove2005/BLACK-WHAIT-BOT'
 
 global.packname = '𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃'
 
