@@ -7,7 +7,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "keywords": [
+  "keywords": {
     "termux",
     "whatsapp",
     "2021",
@@ -17,7 +17,7 @@
     "bot",
     "bot-md",
     "multi-device"
-  ],
+  },
   "author": "Drips.",
   "license": "MIT",
   "dependencies": {
