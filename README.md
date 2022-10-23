@@ -1,6 +1,7 @@
-<h1 align="center">⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋 V6⚜️<br></h1>
+<h1 align="center">☞BLACK-WHAIT-BOT☜<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/NpXYnCh/Whats-App-Image-2022-10-10-at-10-37-16.jpg"
+<img src="![Screenshot_20221023-150442_WhatsApp](https://user-images.githubusercontent.com/116479343/197401558-bca033c4-cd98-4dee-b3ba-7a21b07649c0.jpg)
+"
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
@@ -22,11 +23,9 @@
 
 
 
-# > THANKS FOR CHOOSING DARK NERO BOT WE APPRECIATE YOU FOR YOUR SUPPORT
+# > THANKS FOR CHOOSING BLACK WHAIT BOT WE APPRECIATE YOU FOR YOUR SUPPORT
  
-# > KUMUTHU 
-# > VIHANGA
-# > THINURA
-# > LAKHAN
-# > pramu
-# > Amra
+# > DRAK NIRO 
+# > RED DRAGON
+
+# > 𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃
