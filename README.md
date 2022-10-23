@@ -24,6 +24,11 @@
 <h1 align="center">☞𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃☜<br></h1>
 <p align="center">
 
+## ```Connect With Me```
+
+<p align="center">
+
+<a href="https://wa.me/94784506970"><img src="https://img.shields.io/badge/Contact Achi Fernando-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
 
