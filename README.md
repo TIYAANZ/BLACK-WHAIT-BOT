@@ -26,7 +26,7 @@
 
 
 # > THANKS FOR CHOOSING BLACK WHAIT BOT WE APPRECIATE YOU FOR YOUR SUPPORT
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐁𝐋𝐀𝐂𝐊+𝐖𝐇𝐀𝐈𝐓+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘿𝙍𝘼𝙆+𝙉𝙄𝙍𝙊+𝙒𝘼+𝘽𝙊𝙏)](https://git.io/typing-svg)
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐁𝐋𝐀𝐂𝐊+𝐖𝐇𝐀𝐈𝐓+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘿𝙍𝘼𝙆+𝙉𝙄𝙍𝙊+𝙒𝘼+𝘽𝙊𝙏+ටැන්කියු+𝐑𝐄𝐃+𝐃𝐑𝐀𝐆𝐎𝐍+𝐖𝐀+𝐁𝐎𝐓)](https://git.io/typing-svg)
 # > ╠DRAK NIRO ╣ 
 # > ╠RED DRAGON╣
 
