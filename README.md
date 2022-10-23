@@ -1,7 +1,8 @@
 <h1 align="center">☞BLACK-WHAIT-BOT☜<br></h1>
 <p align="center">
 
-"
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐁𝐋𝐀𝐂𝐊+𝐖𝐇𝐀𝐈𝐓+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐒𝐋+𝐒𝐀𝐂𝐇𝐈𝐘𝐀+𝐓𝐄𝐀𝐌;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝐃𝐑𝐀𝐊+𝐍𝐈𝐑𝐎+𝐁𝐎𝐓;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏☜)](https://git.io/typing-svg)
+
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy) 
 
