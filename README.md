@@ -1,3 +1,6 @@
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%87%B1%F0%9F%87%B0%F0%9D%90%92%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87%F0%9D%90%88%F0%9D%90%98%F0%9D%90%80+%F0%9D%90%8C%F0%9D%90%83%F0%9F%87%B1%F0%9F%87%B0++%F0%9F%87%B1%F0%9F%87%B0%F0%9D%90%92%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87%F0%9D%90%88%F0%9D%90%93%F0%9D%90%87%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
+
 <h1 align="center">☞BLACK-WHAIT-BOT☜<br></h1>
 <p align="center">
 
@@ -7,6 +10,10 @@
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
  
 #_ 𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%87%B1%F0%9F%87%B0%F0%9D%90%92%F0%9D%90%91%F0%9D%90%88+%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%8A%F0%9D%90%80+%F0%9D%90%96%F0%9D%90%87%F0%9D%90%80%F0%9D%90%93%F0%9D%90%92%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%8F+%F0%9D%90%81%F0%9D%90%8E%F0%9D%90%93+%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
+
 
 <img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
 
