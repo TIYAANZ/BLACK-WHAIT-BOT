@@ -1,26 +1,26 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%87%B1%F0%9F%87%B0%F0%9D%90%92%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87%F0%9D%90%88%F0%9D%90%98%F0%9D%90%80+%F0%9D%90%8C%F0%9D%90%83%F0%9F%87%B1%F0%9F%87%B0++%F0%9F%87%B1%F0%9F%87%B0%F0%9D%90%92%F0%9D%90%80%F0%9D%90%82%F0%9D%90%87%F0%9D%90%88%F0%9D%90%93%F0%9D%90%87%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
 
-<h1 align="center">☞BLACK-WHAIT-BOT☜<br></h1>
+<h1 align="center">☞TIYAAN-SER-BOT☜<br></h1>
 <p align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐁𝐋𝐀𝐂𝐊+𝐖𝐇𝐀𝐈𝐓+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐒𝐋+𝐒𝐀𝐂𝐇𝐈𝐘𝐀+𝐓𝐄𝐀𝐌;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝐃𝐑𝐀𝐊+𝐍𝐈𝐑𝐎+𝐁𝐎𝐓;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏☜)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝗧𝗜𝗬𝗔𝗔𝗡𝗭 +ˢ ᴱ ᴿ +𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝐈𝐍𝐃𝐈𝐀+𝐓𝐈𝐘𝐀𝐀𝐍+𝐓𝐄𝐀𝐌;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝐓𝐈𝐘𝐀𝐀𝐍z+𝐁𝐎𝐓;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏☜)](https://git.io/typing-svg)
 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
  
-#_ 𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃
+#_ 𝗧𝗜𝗬𝗔𝗔𝗡𝗭 𝐌𝐃
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%87%B1%F0%9F%87%B0%F0%9D%90%92%F0%9D%90%91%F0%9D%90%88+%F0%9D%90%8B%F0%9D%90%80%F0%9D%90%8D%F0%9D%90%8A%F0%9D%90%80+%F0%9D%90%96%F0%9D%90%87%F0%9D%90%80%F0%9D%90%93%F0%9D%90%92%F0%9D%90%80%F0%9D%90%8F%F0%9D%90%8F+%F0%9D%90%81%F0%9D%90%8E%F0%9D%90%93+%F0%9F%87%B1%F0%9F%87%B0)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%87%AE%F0%9F%87%B3%F0%9D%97%9C%F0%9D%97%A1%F0%9D%97%97%F0%9D%97%9C%F0%9D%97%94%F0%9D%97%A1%20%F0%9D%97%AA%F0%9D%97%9B%F0%9D%97%94%F0%9D%97%A7%F0%9D%97%A6%F0%9D%97%94%F0%9D%97%A3%F0%9D%97%A3%20%F0%9D%97%95%F0%9D%97%A2%F0%9D%97%A7%F0%9F%87%AE%F0%9F%87%B3)](https://git.io/typing-svg)
 
 
-<img src="https://fontmeme.com/permalink/220116/0c42dc0b64931810388ba399da55e927.png" alt="backwoods-logo-font" border="0"></a>  
+<img src="https://i.imgur.com/283Rc0E.jpeg" alt="backwoods-logo-font" border="0"></a>  
 
 
-1. Click [SCAN](https://replit.com/@NoLove1/BLACK-WHAIT-BOT-1?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@TIYAANZ/BLACK-WHAIT-BOT-1?v=1) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
-2. Click [FORK](https://github.com/nolove2005/BLACK-WHAIT-BOT/upload/main)
+2. Click [FORK](https://github.com/TIYAANZ/BLACK-WHAIT-BOT/upload/main)
 
 2. After That Upload Session.json File
 
@@ -28,38 +28,37 @@
 
 5. Then Click [DEPLOY](https://heroku.com/deploy) Button To Enjoy My Bot.
 
-<h1 align="center">☞𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃☜<br></h1>
+<h1 align="center">☞𝗧𝗜𝗬𝗔𝗔𝗡𝗭 𝐌𝐃☜<br></h1>
 <p align="center">
 
 ## ```Connect With Me```
 
 <p align="center">
 
-<a href="https://wa.me/94767233346"><img src="https://img.shields.io/badge/Contact Achi Fernando-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/+917356433735"><img src="https://img.shields.io/badge/Contact Achi Fernando-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 
-## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/LUFnf5ew7h8Bi4QMYzdVwr) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
+## [![WhatsApp Group](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/EMVSOARAKBc1ubmO2aDLps) [![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/en/)
 
-~*🇱🇰බොට්ගෙ යම් ගැටලුවක් ඇති උවොත එය විසදා ගැනිමට මගෙ 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐆𝐑𝐎𝐔𝐏 එකට 𝐉𝐎𝐈𝐍 වෙන්න🇱🇰*~
+~*ｈｉ ｇｏｏｙｓ ｗｅ ａｒｅ ｆｒｉｅｎｄｓ𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐆𝐑𝐎𝐔𝐏 😈 𝐉𝐎𝐈𝐍 ｉｎｄｉａ🇮🇳*~
 
-# > THANKS FOR CHOOSING BLACK WHAIT BOT WE APPRECIATE YOU FOR YOUR SUPPORT
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝐁𝐋𝐀𝐂𝐊+𝐖𝐇𝐀𝐈𝐓+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝘿𝙍𝘼𝙆+𝙉𝙄𝙍𝙊+𝙒𝘼+𝘽𝙊𝙏+ටැන්කියු+𝐑𝐄𝐃+𝐃𝐑𝐀𝐆𝐎𝐍+𝐖𝐀+𝐁𝐎𝐓)](https://git.io/typing-svg)
-# > ╠DRAK NIRO ╣ 
-# > ╠RED DRAGON╣
+# > THANKS FOR CHOOSING TIYAAN SER BOT WE APPRECIATE YOU FOR YOUR SUPPORT
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+𝗧𝗜𝗬𝗔𝗔𝗡𝗭+𝐁𝐎𝐓+𝐖𝐀+𝐁𝐎𝐓+𝐑𝐄𝐏𝐎.;𝐒𝐄𝐑+𝙒𝘼+𝘽𝙊𝙏+𝐈𝐍𝐃𝐈𝐀+𝐖𝐀+𝐁𝐎𝐓)](https://git.io/typing-svg)
+# > ╠ammu╣ 
+# > ╠tiyaanz-ser╣
 
-# > ☞𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃☜
+# > ☞𝗧𝗜𝗬𝗔𝗔𝗡𝗭 𝐌𝐃☜
 
- 🇱🇰බොට් යමක් දැන ගන්න ඔනනම් මගෙ WhatsApp namber එක දාලා තියෙනවා...
- එකෙන් එන්න🇱🇰
+ 🇮🇳whatsapp number🇮🇳
  
- wa.com/me +94767233346
+ https://wa.me+917356433735
  
- 🇱🇰𝐒𝐑𝐈 𝐋𝐀𝐍𝐊𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🇱🇰
-      🇱🇰𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃🇱🇰
+🇮🇳 𝐈𝐍𝐃𝐈𝐀 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 𝐁𝐎𝐓🇮🇳
+      🇮🇳𝗧𝗜𝗬𝗔𝗔𝗡𝗭 𝐌𝐃🇮🇳
       ▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰▰
       
 
-    𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃🇱🇰
+    𝗧𝗜𝗬𝗔𝗔𝗡𝗭 𝐌𝐃🇮🇳
 
     
 
@@ -1125,6 +1124,6 @@
 
 ┗━━━━━━━━━━━━━⦿
 
-𝐒𝐀𝐂𝐇𝐈𝐘𝐀 𝐌𝐃
+𝗧𝗜𝗬𝗔𝗔𝗡𝗭 𝐌𝐃
 
-🇱🇰බොට්ගෙ menu එක🇱🇰
+🇱🇰𝐖𝐄𝐋𝐂𝐎𝐌𝐄🇱🇰
